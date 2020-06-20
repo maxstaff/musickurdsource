@@ -1,4 +1,4 @@
-token = NzA3NjI2NTI1MTU1MDAwMzcy.Xtp0og.apBrDRZZcyPYADrME7Zie4np5O4
+token = TOKEN
 owner = 703418433752006716
 
 
@@ -7,7 +7,7 @@ prefix = "-"
 
 
 
-game = "THEヤTARMAY"
+game = "Shtek Bnwsa bo playing"
 
 
 
@@ -85,7 +85,7 @@ aliases {
   movetrack = [ move ]
   pause = []
   playnext = []
-  repeat = []
+  repeat = [ Shaka ]
   skipto = [ jumpto ]
   stop = []
   volume = [ vol ]
